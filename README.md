@@ -1,6 +1,6 @@
 # Ristocrat - better, richer REPL for R
 
-Ristocrat (pronounced "*arr*istocrat") will be a better, richer REPL for R, that allows features such as 
+Ristocrat (pronounced "*arr*istocrat") will be a better, richer REPL for R, that 
 
   * Easier editing of R commands and history using [ed-like](https://github.com/robertzk/productivus/blob/master/R/ed.r) history
     traversal and an editor of your choice (like vim).
